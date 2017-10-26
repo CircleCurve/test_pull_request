@@ -1,5 +1,5 @@
 # tutorial
-for test github
+for test github and bitbucket
 
 #For test pull request
 for test pull
